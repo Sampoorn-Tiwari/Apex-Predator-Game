@@ -1,0 +1,16 @@
+1,Menza,30,100,100,Scratch,Furnance,Magma Rocks,Hellfire
+2,Zorax,30,120,120,Scratch,Tail whip,Water Blast,Sonic beam
+3,Zappy,12,150,150,Scratch,Thunderschock,Tail Whip,Thunderbolt Rain
+6,Snorty,17,130,130,Scratch,Sonic Beam,Tackle,Rock Throw
+4,Kikwik,20,120,120,Scratch,Leaf Strike,Seed Bomb,Rainbow Beam
+5,Flamingo,30,170,170,Scratch,Hurricane,Hyper Beam,Solar Beam
+1,Inferno Rex,25,180,180,Bite,Ember,Magma Storm,Hell Fire
+2,Tidal Serpent,35,95,95,Splash,Aqua Jet,Hydro Pump,Tsunami
+3,Bee Volt,12,200,200,Electric Sting,Spark,Thunderbolt,Zap Cannon
+4,Gaia Bear,8,220,220,Scratch,Leaf Blade,Frenzy Plant,Solar Beam
+5,Aero Griffin,40,70,70,Tornado,Aerial Ace,Sand Storm,Aero Beam
+6,Terra Titan,10,260,260,Tackle,Mud Slap,Earthquake,Body Slam
+1,BlazeFalcon,25,140,140,Claw,FireSpin,FlareBlitz,Overheat
+2,AbyssShark,23,170,170,Bite,WaterGun,AquaTail,HydroCannon
+3,ThunderWolf,17,160,160,Fang,Spark,WildCharge,Thunder
+4,LeafMantis,34,140,140,Slash,RazorLeaf,GigaDrain,LeafStorm
